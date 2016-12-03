@@ -2,3 +2,7 @@
 
 A basic tic tac toe game in java.
 Written using JFrame and action listener. 
+bin contains compiled code.
+src contains source java code.
+
+I am sorry about the typos in the comments of the code.
